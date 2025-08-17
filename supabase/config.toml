@@ -1,0 +1,3 @@
+project_id = "your-project-ref"
+[functions]
+# Edge functions will be discovered in ./supabase/functions/*
